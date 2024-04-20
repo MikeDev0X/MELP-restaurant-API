@@ -1,0 +1,26 @@
+{
+  "name": "melp-restaurant-api",
+  "version": "1.0.0",
+  "description": ".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeDev0X/MELP-restaurant-API.git"
+  },
+  "keywords": [
+    "MELP",
+    "restaurant",
+    "API",
+    "intelimetrica",
+    "test"
+  ],
+  "author": "Miguel Jiménez Padilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeDev0X/MELP-restaurant-API/issues"
+  },
+  "homepage": "https://github.com/MikeDev0X/MELP-restaurant-API#readme"
+}
